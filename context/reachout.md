@@ -39,3 +39,13 @@ Grazie in anticipo,
 Leandro
 
 Regole emerse: frasi brevi, una riga per idea; "Per la mia tesi" (senza ESCP nel testo, va bene così); un solo dettaglio concreto sulla persona (azienda); chiedere 30 minuti; niente complimenti. Se la persona ha chiesto il collegamento: aprire con "grazie per il collegamento!".
+
+## Stile email (EN, investitori/partner) – regole emerse
+- Brevissime: i partner non leggono mail lunghe. Andare dritti al punto.
+- Ringraziamento in una riga, con un solo concetto concreto dalla call.
+- Niente "as I quickly mentioned at the end of the call": basta "As I mentioned".
+- Tesi descritta con la domanda di ricerca: "under what conditions AI-enabled roll-ups of professional-services firms can generate venture-scale returns".
+- Elenchi con trattino attaccato "-testo" (no pallini, no spazio), aspetto pulito.
+- Aziende: Nome (sito): one-liner che dica cosa fanno/cosa comprano, stesso formato per tutte.
+- Citare solo veri roll-up; escludere chi vende software.
+- Bozze salvate nella colonna "Draft message" del database Outreach.
