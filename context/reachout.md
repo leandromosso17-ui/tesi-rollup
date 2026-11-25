@@ -48,4 +48,4 @@ Regole emerse: frasi brevi, una riga per idea; "Per la mia tesi" (senza ESCP nel
 - Elenchi con trattino attaccato "-testo" (no pallini, no spazio), aspetto pulito.
 - Aziende: Nome (sito): one-liner che dica cosa fanno/cosa comprano, stesso formato per tutte.
 - Citare solo veri roll-up; escludere chi vende software.
-- Bozze salvate nella colonna "Draft message" del database Outreach.
+- Bozze: testo completo nel corpo della pagina della persona su Outreach (sezione "Email draft (copy from here)"), un paragrafo per blocco e a capo interni, così il copia-incolla in Gmail mantiene il formato. La colonna "Draft message" rimanda lì.
