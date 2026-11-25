@@ -45,7 +45,18 @@ Regole emerse: frasi brevi, una riga per idea; "Per la mia tesi" (senza ESCP nel
 - Ringraziamento in una riga, con un solo concetto concreto dalla call.
 - Niente "as I quickly mentioned at the end of the call": basta "As I mentioned".
 - Tesi descritta con la domanda di ricerca: "under what conditions AI-enabled roll-ups of professional-services firms can generate venture-scale returns".
-- Elenchi con trattino attaccato "-testo" (no pallini, no spazio), aspetto pulito.
+- Elenchi con "- " (trattino + spazio), niente pallini grafici.
 - Aziende: Nome (sito): one-liner che dica cosa fanno/cosa comprano, stesso formato per tutte.
 - Citare solo veri roll-up; escludere chi vende software.
 - Bozze: testo completo nel corpo della pagina della persona su Outreach (sezione "Email draft (copy from here)"), un paragrafo per blocco e a capo interni, così il copia-incolla in Gmail mantiene il formato. La colonna "Draft message" rimanda lì.
+
+## Lezioni dalla mail finale a Luis (25 nov 2026)
+- Apertura: "Hi <Nome>," (non "Dear").
+- Ringraziamento + notizia con punto esclamativo, poi frase separata ("...won the investment committee on Cocunat! Your point on...").
+- Tono colloquiale e caldo: "The other players I was mentioning you last week" invece di "As promised".
+- Precisione di business: "better topline and EBITDA", "model out the roll-up".
+- Nomi aziende con la grafia ufficiale/maiuscole (Hallo Theo).
+- Niente dettagli non necessari su di sé (tolto "I interviewed the founders"); meglio un fatto sul player ("recently got out of stealth").
+- Frasi lunghe spezzate su riga nuova (es. allegato in frase a sé); niente anni superflui.
+- Chiusura: richiesta esplicita di call, motivata con la sua esperienza ("given your experience both in venture and search funds. Would you be available in the coming weeks for a quick call?"). Questo supera la regola 6.
+- Firma: "Very best," + Nome Cognome.
