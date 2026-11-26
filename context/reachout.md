@@ -60,3 +60,9 @@ Regole emerse: frasi brevi, una riga per idea; "Per la mia tesi" (senza ESCP nel
 - Frasi lunghe spezzate su riga nuova (es. allegato in frase a sé); niente anni superflui.
 - Chiusura: richiesta esplicita di call, motivata con la sua esperienza ("given your experience both in venture and search funds. Would you be available in the coming weeks for a quick call?"). Questo supera la regola 6.
 - Firma: "Very best," + Nome Cognome.
+
+## Lezioni mail a Gianluca (Primo, IT, 26 nov 2026)
+- In italiano tenere i termini tecnici in inglese, come parla chi lavora nel settore: "AI roll-up", "revenues", "exit", "EBITDA", "call". Evitare traduzioni forzate ("roll-up abilitati dall'AI", "aggregazione dei ricavi").
+- Chiusura: punto di vista + richiesta di call nello stesso paragrafo.
+- Niente nome del fondo specifico se non verificato ("del fondo").
+- Evitare formulazioni ambigue tipo "il gruppo viene rivalutato": dire esplicitamente rispetto a cosa (multiplo pagato per le singole acquisizioni).
